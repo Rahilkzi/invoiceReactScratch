@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+*.log
+
+# Package files
+package-lock.json
+yarn.lock
+
+# Cache
+.cache/
+.npm/
+
+# Coverage
+coverage/
+
+# Local development
+*.local
